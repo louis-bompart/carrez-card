@@ -1,0 +1,46 @@
+{
+  "name": "carrez-card",
+  "authors": [
+    "Louis Bompart <louis.vincent.bompart@gmail.com>"
+  ],
+  "description": "An element displaying if a deal is good or not, however he's dumb, so he doesn't do any math !",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "carrez-card.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/louis-bompart/carrez-card/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "iron-icon": "PolymerElements/iron-icon#1.0.0",
+    "iron-icons": "PolymerElements/iron-icons#1.0.0",
+    "paper-button": "PolymerElements/paper-button#1.0.0",
+    "paper-card": "PolymerElements/paper-card#1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^4.0.0"
+  },
+  "moduleType": [],
+  "_release": "849481a88d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "849481a88deedbd352f91f45b41f34aee0172b65"
+  },
+  "_source": "git://github.com/louis-bompart/carrez-card.git",
+  "_target": "master",
+  "_originalSource": "louis-bompart/carrez-card",
+  "_direct": true
+}
